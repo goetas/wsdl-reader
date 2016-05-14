@@ -1,4 +1,1 @@
-wsdl-reader
-===========
-
-PHP wsdl parser
+Moved to https://github.com/goetas-webservices/wsdl-reader
